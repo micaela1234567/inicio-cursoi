@@ -1,2 +1,2 @@
-# inicio-cursoi
+# inicio-curso
 repositorio
